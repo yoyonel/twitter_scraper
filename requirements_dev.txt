@@ -1,0 +1,13 @@
+-r requirements.txt
+
+jupyter
+mock
+mongomock
+objgraph
+# TODO: Problems (async coroutine, async-pymongo, ...) with last version pytest-3.7.0
+pytest==3.5.1
+pytest-mock
+tox
+
+# https://pythonhosted.org/Pympler/
+pympler

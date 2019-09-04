@@ -1,0 +1,11 @@
+[paths]
+source = src/yoyonel/twitter_analyzer
+
+[run]
+branch = True
+source = src/yoyonel/twitter_analyzer
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
