@@ -3,4 +3,6 @@ coloredlogs
 jsonschema>=3.0.1
 python-dateutil>=2.8.0
 tqdm>=4.32.2
-uvloop>=0.13.0
+# uvloop>=0.13.0
+aiostream>=0.3.3
+aiologger>=0.4.0
